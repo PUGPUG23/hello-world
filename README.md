@@ -1,5 +1,5 @@
 # hello-world
 for Software Engineering Exercise
-## profile
-- student number:
-- name:
+
+## Today
+2022/12/22
