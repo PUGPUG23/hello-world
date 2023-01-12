@@ -7,4 +7,7 @@ for Software Engineering Exercise
 ## About me
 - name: Tomohiro Tanaka
 - age: 22
+- gender: male
+- birthplace: Japan
 - job: university student
+- hobby: soccer
