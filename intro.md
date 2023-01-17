@@ -11,6 +11,7 @@ for Software Engineering Exercise
 - birthplace: Japan
 - job: university student
 - hobby: soccer
+- 
 
 
 
