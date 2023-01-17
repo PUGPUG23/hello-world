@@ -4,5 +4,5 @@
 2023/01/18
 
 ## 自己紹介リスト
-- aa
-- bb
+- [PUGPUG23](https://github.com/PUGPUG23/hello-world/intro)
+- [RyudaiIwakami](https://github.com/PUGPUG23/hello-world/intro2)
