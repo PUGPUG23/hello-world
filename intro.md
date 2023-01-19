@@ -2,7 +2,7 @@
 for Software Engineering Exercise
 
 ## Today
-2023/1/12
+2023/1/19
 
 ## About me
 - name: Tomohiro Tanaka
